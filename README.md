@@ -29,7 +29,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Jaxsei&show_icons=true&theme=github_dark&count_private=true" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaxsei&theme=github-dark-blue" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaxsei&theme=github_dark" />
     </td>
   </tr>
 </table>
@@ -44,8 +44,8 @@
 ---
 
 ## 📌 **Projects**
-🚀 **[ChatApp](https://github.com/Jaxsei/fullstack-chatapp)**
-⚡ **[AniJade](https://github.com/Jaxsei/AniJade)**  
+🚀 **[ChatApp](https://github.com/Jaxsei/fullstack-chatapp)** - A ChatApp Based On The **Mern** Stack
+⚡ **[AniJade](https://github.com/Jaxsei/AniJade)**  A Site To Explore **Anime**
 
 ---
 
